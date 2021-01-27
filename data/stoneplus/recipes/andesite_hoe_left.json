@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "110",
+    "020",
+    "020"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:andesite"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_hoe",
+    "count": 1
+  }
+}
